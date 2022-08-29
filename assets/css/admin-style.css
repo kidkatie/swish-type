@@ -1,0 +1,18 @@
+[id*="alitheme_hewo_metaboxes_"] h2 {
+    background-color: #0073aa;
+    color: #fff !important;
+    padding: 10px !important;
+}
+
+[id*="alitheme_hewo_metaboxes_"] .toggle-indicator {
+    color: #fff !important;
+}
+
+#alitheme_hewo_metaboxes_gallery_options,
+#alitheme_hewo_metaboxes_video_options,
+#alitheme_hewo_metaboxes_audio_options,
+#alitheme_hewo_metaboxes_quote_options
+ {
+    display: none;
+    margin-top: 10px;
+}

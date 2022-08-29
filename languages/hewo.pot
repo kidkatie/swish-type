@@ -1,0 +1,1621 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-02 21:41+0700\n"
+"PO-Revision-Date: 2019-01-02 21:40+0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.2\n"
+
+#: 404.php:16
+msgid "404"
+msgstr "404"
+
+#: 404.php:17
+msgid "Page Not Found"
+msgstr "Page Not Found"
+
+#: 404.php:19
+msgid ""
+"The page requested could not be found. This could a spelling error in the "
+"URL or a removed page."
+msgstr ""
+"The page requested could not be found. This could a spelling error in the "
+"URL or a removed page."
+
+#: 404.php:21
+msgid "Home Page"
+msgstr "Home Page"
+
+#: 404.php:22
+msgid "Search"
+msgstr "Search"
+
+#: author.php:13
+#, php-format
+msgid ""
+"<div class=\"post_meta\"><span><a target=\"_blank\" href=\"%1$s\" title="
+"\"Visit to %2$s website\">Visit Author Site</a></span></div>"
+msgstr ""
+
+#: comments.php:13
+msgid "be the first to comment on this article"
+msgstr ""
+
+#: comments.php:16
+msgid "There is 1 comment for this article"
+msgstr ""
+
+#: comments.php:18
+#, php-format
+msgid "There are %s comments for this article"
+msgstr ""
+
+#: comments.php:34
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: footer.php:72
+msgid "Take Me Top"
+msgstr ""
+
+#: functions.php:141
+msgid "Main menu"
+msgstr ""
+
+#: functions.php:153 inc/redux-sections/section-social.php:25
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:154 inc/redux-sections/section-social.php:33
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:155 inc/redux-sections/section-social.php:41
+msgid "Google+"
+msgstr ""
+
+#: functions.php:156 inc/redux-sections/section-social.php:57
+msgid "LinkedIn"
+msgstr ""
+
+#: functions.php:157
+msgid "Tumblr"
+msgstr ""
+
+#: functions.php:158 inc/redux-sections/section-social.php:49
+msgid "Pinterest"
+msgstr ""
+
+#: functions.php:159
+msgid "YouTube"
+msgstr ""
+
+#: functions.php:160 inc/redux-sections/section-social.php:85
+msgid "Skype"
+msgstr ""
+
+#: functions.php:161 inc/redux-sections/section-social.php:78
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:162
+msgid "Delicious"
+msgstr ""
+
+#: functions.php:163
+msgid "Digg"
+msgstr ""
+
+#: functions.php:164
+msgid "Reddit"
+msgstr ""
+
+#: functions.php:165
+msgid "StumbleUpon"
+msgstr ""
+
+#: functions.php:166
+msgid "Medium"
+msgstr ""
+
+#: functions.php:167
+msgid "Vimeo"
+msgstr ""
+
+#: functions.php:168
+msgid "Yahoo!"
+msgstr ""
+
+#: functions.php:169 inc/redux-sections/section-social.php:71
+msgid "Flickr"
+msgstr ""
+
+#: functions.php:170
+msgid "DeviantArt"
+msgstr ""
+
+#: functions.php:171
+msgid "GitHub"
+msgstr ""
+
+#: functions.php:172
+msgid "StackOverFlow"
+msgstr ""
+
+#: functions.php:173
+msgid "Stack Exchange"
+msgstr ""
+
+#: functions.php:174
+msgid "Bitbucket"
+msgstr ""
+
+#: functions.php:175
+msgid "Xing"
+msgstr ""
+
+#: functions.php:176
+msgid "Foursquare"
+msgstr ""
+
+#: functions.php:177
+msgid "Paypal"
+msgstr ""
+
+#: functions.php:178
+msgid "Yelp"
+msgstr ""
+
+#: functions.php:179
+msgid "SoundCloud"
+msgstr ""
+
+#: functions.php:180
+msgid "Last.fm"
+msgstr ""
+
+#: functions.php:181
+msgid "Spotify"
+msgstr ""
+
+#: functions.php:182
+msgid "Slideshare"
+msgstr ""
+
+#: functions.php:183
+msgid "Dribbble"
+msgstr ""
+
+#: functions.php:184
+msgid "Steam"
+msgstr ""
+
+#: functions.php:185
+msgid "Behance"
+msgstr ""
+
+#: functions.php:186
+msgid "Weibo"
+msgstr ""
+
+#: functions.php:187
+msgid "Trello"
+msgstr ""
+
+#: functions.php:188
+msgid "VKontakte"
+msgstr ""
+
+#: functions.php:189
+msgid "Homepage"
+msgstr ""
+
+#: functions.php:190 inc/helper/helper.php:367
+msgid "Email"
+msgstr ""
+
+#: functions.php:191
+msgid "Feed"
+msgstr ""
+
+#: functions.php:203
+msgid "The Sidebar"
+msgstr ""
+
+#: functions.php:205
+msgid "The sidebar area"
+msgstr ""
+
+#: functions.php:213
+msgid "Headline content"
+msgstr ""
+
+#: functions.php:215
+msgid "Headline area"
+msgstr ""
+
+#: functions.php:223
+msgid "Before content"
+msgstr ""
+
+#: functions.php:225
+msgid "Before content area"
+msgstr ""
+
+#: functions.php:232
+msgid "After content"
+msgstr ""
+
+#: functions.php:234
+msgid "After content area"
+msgstr ""
+
+#: functions.php:245 inc/redux-sections/section-offcanvas.php:6
+msgid "Off canvas"
+msgstr ""
+
+#: functions.php:247
+msgid "Right toggle area"
+msgstr ""
+
+#: functions.php:257
+msgid "Footer #1"
+msgstr ""
+
+#: functions.php:259
+msgid "Footer 1 area"
+msgstr ""
+
+#: functions.php:267
+msgid "Footer #2"
+msgstr ""
+
+#: functions.php:269
+msgid "Footer 2 area"
+msgstr ""
+
+#: functions.php:277
+msgid "Footer #3"
+msgstr ""
+
+#: functions.php:279
+msgid "Footer 3 area"
+msgstr ""
+
+#: functions.php:287
+msgid "Footer #4"
+msgstr ""
+
+#: functions.php:289
+msgid "Footer 4 area"
+msgstr ""
+
+#: functions.php:356
+msgid "Featured Image"
+msgstr ""
+
+#: functions.php:387
+msgid "Home"
+msgstr ""
+
+#: functions.php:530
+msgid "Page"
+msgstr ""
+
+#: functions.php:552
+msgid "Preview Post"
+msgstr ""
+
+#: functions.php:563
+msgid "Next Post"
+msgstr ""
+
+#: functions.php:587
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:603
+msgid "Author"
+msgstr ""
+
+#: functions.php:606
+msgid "at"
+msgstr ""
+
+#: functions.php:616
+msgid "Reply"
+msgstr ""
+
+#: functions.php:638
+msgid "Hewo Core Plugin"
+msgstr ""
+
+#: header.php:38
+msgid "MORE"
+msgstr ""
+
+#: header.php:62
+msgid "SEARCH"
+msgstr ""
+
+#: header.php:103
+msgid "Go to Appearance > Menu to set Main Menu"
+msgstr ""
+
+#: search.php:6
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:11
+#, php-format
+msgid "We found <strong>%2$s</strong> articles for you."
+msgstr ""
+
+#: inc/paging.php:17
+msgid "PREV"
+msgstr ""
+
+#: inc/paging.php:18
+msgid "NEXT"
+msgstr ""
+
+#: inc/paging.php:30
+msgid "Pages:"
+msgstr ""
+
+#: inc/paging.php:36
+msgid "Next page"
+msgstr ""
+
+#: inc/paging.php:37
+msgid "Previous page"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:393
+#: inc/helper/class-tgm-plugin-activation.php:912
+#: inc/helper/class-tgm-plugin-activation.php:2618
+#: inc/helper/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:394
+#: inc/helper/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:395
+#: inc/helper/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:1019
+#: inc/helper/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:1206
+msgctxt "plugin A and plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:3594
+#: inc/helper/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:3594
+#: inc/helper/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/helper/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/helper/helper.php:38 inc/helper/helper.php:143
+msgid "List"
+msgstr ""
+
+#: inc/helper/helper.php:42 inc/helper/helper.php:127 inc/helper/helper.php:147
+msgid "Grid"
+msgstr ""
+
+#: inc/helper/helper.php:46 inc/helper/helper.php:151
+msgid "Masonry"
+msgstr ""
+
+#: inc/helper/helper.php:50 inc/helper/helper.php:155
+msgid "Big Thumbnail"
+msgstr ""
+
+#: inc/helper/helper.php:62
+msgid "Two columns"
+msgstr ""
+
+#: inc/helper/helper.php:66
+msgid "Three columns"
+msgstr ""
+
+#: inc/helper/helper.php:70
+msgid "Four columns"
+msgstr ""
+
+#: inc/helper/helper.php:82
+msgid "Left"
+msgstr ""
+
+#: inc/helper/helper.php:86
+msgid "Right"
+msgstr ""
+
+#: inc/helper/helper.php:90
+msgid "None"
+msgstr ""
+
+#: inc/helper/helper.php:102
+msgid "Small"
+msgstr ""
+
+#: inc/helper/helper.php:106
+msgid "Big"
+msgstr ""
+
+#: inc/helper/helper.php:119
+msgid "Slider"
+msgstr ""
+
+#: inc/helper/helper.php:123
+msgid "Full Slide"
+msgstr ""
+
+#: inc/helper/helper.php:131
+msgid "Carausel"
+msgstr ""
+
+#: inc/helper/helper.php:201
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: inc/helper/helper.php:205
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: inc/helper/helper.php:213 inc/helper/helper.php:231
+#: inc/helper/helper.php:236
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: inc/helper/helper.php:300
+msgid "Instagram Image"
+msgstr ""
+
+#: inc/helper/helper.php:345
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: inc/helper/helper.php:357
+msgid "(optional)"
+msgstr ""
+
+#: inc/helper/helper.php:361
+msgid "Name"
+msgstr ""
+
+#: inc/helper/helper.php:362
+msgid "Your name *"
+msgstr ""
+
+#: inc/helper/helper.php:368
+msgid "Email *"
+msgstr ""
+
+#: inc/helper/helper.php:383
+msgid "Your Comment"
+msgstr ""
+
+#: inc/helper/helper.php:385
+msgid "Comment"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/audio.php:7
+msgid "AUDIO OPTIONS"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/audio.php:14
+msgid "audio URL"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/audio.php:15
+msgid "Input link of audio, support: SoundCloud, MixCloud"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/audio.php:20
+msgid "Self-Hosted Audio"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/audio.php:21
+msgid "Please upload the mp3, ogg, wma, m4a, wav audio file."
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/gallery.php:7
+msgid "GALLERY OPTIONS"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/gallery.php:14
+msgid "select gallery"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/gallery.php:15
+msgid "Select images for gallery"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/quote.php:7
+msgid "QUOTE OPTIONS"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/quote.php:14
+msgid "Quote"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/quote.php:19
+msgid "Quote Author"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/quote.php:25
+msgid "Author Avatar"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/quote.php:26
+msgid "Please choose or upload the image"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/quote.php:31
+msgid "Author URL"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/quote.php:32
+msgid "Enter the author site link"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/video.php:7
+msgid "VIDEO OPTIONS"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/video.php:14
+msgid "Video URL"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/video.php:15
+msgid "Input link of video from: Youtube, Vimeo or DailyMotion"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/video.php:20
+msgid "Self-Hosted Video"
+msgstr ""
+
+#: inc/metaboxes/metabox-sections/video.php:21
+msgid "Please upload the video file. Format: mp4, m4v, webm, ogv, wmv, flv"
+msgstr ""
+
+#: inc/redux-sections/section-featured.php:5
+msgid "Home featured posts"
+msgstr ""
+
+#: inc/redux-sections/section-featured.php:6
+msgid "These are options to modify and style home featured posts"
+msgstr ""
+
+#: inc/redux-sections/section-featured.php:11
+msgid "Featured posts on homepage"
+msgstr ""
+
+#: inc/redux-sections/section-featured.php:20
+msgid "Home Featured Position"
+msgstr ""
+
+#: inc/redux-sections/section-featured.php:21
+msgid "Choose Home Featured Position"
+msgstr ""
+
+#: inc/redux-sections/section-featured.php:29
+msgid "Home Featured Layout"
+msgstr ""
+
+#: inc/redux-sections/section-featured.php:30
+msgid "Choose Home Featured Layout"
+msgstr ""
+
+#: inc/redux-sections/section-featured.php:38
+msgid "Post source"
+msgstr ""
+
+#: inc/redux-sections/section-featured.php:39
+msgid "Get post from"
+msgstr ""
+
+#: inc/redux-sections/section-featured.php:53
+msgid "Select categories"
+msgstr ""
+
+#: inc/redux-sections/section-featured.php:55
+msgid "Filter posts by Category"
+msgstr ""
+
+#: inc/redux-sections/section-featured.php:56
+msgid ""
+"Selected categories in this field will show up their posts in the featured "
+"posts module"
+msgstr ""
+
+#: inc/redux-sections/section-featured.php:61
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/redux-sections/section-featured.php:73
+msgid "Image size"
+msgstr ""
+
+#: inc/redux-sections/section-featured.php:74
+msgid "Default is 1170px * 500px"
+msgstr ""
+
+#: inc/redux-sections/section-featured.php:75
+msgid "Enter the number or leave it blank if you want show the original size."
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:5
+msgid "Bottom & Footer options"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:6
+msgid "These are options to modify and style your footer"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:12
+msgid "Show bottom (Four columns before footer)"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:18
+msgid "Show Social Network"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:24
+msgid "Back To Top Button"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:37
+#: inc/redux-sections/section-header.php:70
+msgid "Logo type"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:38
+#: inc/redux-sections/section-header.php:71
+msgid "Text or Image"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:40
+#: inc/redux-sections/section-header.php:73
+msgid "Image"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:41
+#: inc/redux-sections/section-header.php:74
+msgid "Text"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:49
+#: inc/redux-sections/section-header.php:82
+msgid "Logo text"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:55
+#: inc/redux-sections/section-header.php:88
+msgid "Logo font"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:77
+#: inc/redux-sections/section-header.php:110
+msgid "Logo color"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:78
+#: inc/redux-sections/section-header.php:111
+msgid "Select color for logo text"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:89
+#: inc/redux-sections/section-header.php:122
+msgid "Logo"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:91
+#: inc/redux-sections/section-header.php:124
+msgid "Upload your logo here"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:92
+#: inc/redux-sections/section-header.php:125
+msgid "Supported formats: .jpg .gif .png"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:105
+msgid "Show copyright text"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:112
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/redux-sections/section-footer.php:113
+msgid "Copyright in footer."
+msgstr ""
+
+#: inc/redux-sections/section-general.php:5
+msgid "General setting"
+msgstr ""
+
+#: inc/redux-sections/section-general.php:10
+msgid "Boxed layout?"
+msgstr ""
+
+#: inc/redux-sections/section-general.php:16
+msgid "Boxed Background"
+msgstr ""
+
+#: inc/redux-sections/section-general.php:17
+msgid "Boxed background with image, color, etc."
+msgstr ""
+
+#: inc/redux-sections/section-general.php:27
+msgid "Max width"
+msgstr ""
+
+#: inc/redux-sections/section-general.php:28
+msgid "Default is 1170px"
+msgstr ""
+
+#: inc/redux-sections/section-general.php:40
+msgid "Display loadding page"
+msgstr ""
+
+#: inc/redux-sections/section-general.php:46
+msgid "RTL language"
+msgstr ""
+
+#: inc/redux-sections/section-general.php:59
+msgid "Body Background"
+msgstr ""
+
+#: inc/redux-sections/section-general.php:60
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: inc/redux-sections/section-general.php:69
+msgid "Body font"
+msgstr ""
+
+#: inc/redux-sections/section-general.php:93
+msgid "Heading font"
+msgstr ""
+
+#: inc/redux-sections/section-general.php:116
+msgid "Heading 2 font"
+msgstr ""
+
+#: inc/redux-sections/section-general.php:117
+msgid "Font for Big title (ex: Related Posts, Comment, Leave a reply...)"
+msgstr ""
+
+#: inc/redux-sections/section-general.php:145
+msgid "Links Color Option"
+msgstr ""
+
+#: inc/redux-sections/section-general.php:146
+msgid "Set color for link: hover, active, visited, focus..."
+msgstr ""
+
+#: inc/redux-sections/section-header.php:5
+msgid "Header & Logo"
+msgstr ""
+
+#: inc/redux-sections/section-header.php:6
+msgid "These are options to modify and style your header and your branding"
+msgstr ""
+
+#: inc/redux-sections/section-header.php:12
+msgid "Display Topbar?"
+msgstr ""
+
+#: inc/redux-sections/section-header.php:13
+msgid "Date time, social network"
+msgstr ""
+
+#: inc/redux-sections/section-header.php:21
+msgid "Display Offcanvas?"
+msgstr ""
+
+#: inc/redux-sections/section-header.php:31
+msgid "Display Date Time?"
+msgstr ""
+
+#: inc/redux-sections/section-header.php:41
+msgid "Display Social Network Icons?"
+msgstr ""
+
+#: inc/redux-sections/section-header.php:51
+msgid "Display Search Box?"
+msgstr ""
+
+#: inc/redux-sections/section-header.php:132
+msgid "Slogan"
+msgstr ""
+
+#: inc/redux-sections/section-header.php:133
+msgid "This text will display below the logo."
+msgstr ""
+
+#: inc/redux-sections/section-header.php:140
+msgid "Slogan font"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:5
+msgid "Layouts settting"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:6
+msgid "Layout setting for post, page, homepage..."
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:12
+msgid "Homepage layout"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:18
+msgid "Display latest posts on homepage?"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:25
+msgid "Latest post title"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:31
+msgid "Latest post title font"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:54
+msgid "Homepage posts layouts"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:62
+#: inc/redux-sections/section-layouts.php:93
+msgid "Masonry Columns"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:70
+#: inc/redux-sections/section-layouts.php:101
+#: inc/redux-sections/section-layouts.php:138
+#: inc/redux-sections/section-layouts.php:205
+msgid "Sidebar position"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:79
+msgid "Archive layout"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:85
+msgid "Archive posts layout"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:86
+msgid "Select a layout for category posts."
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:102
+msgid "Select the sidebar position"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:109
+msgid "Display archive header"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:115
+msgid "Display archive breadcrumb"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:122
+msgid "Display archive title"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:132
+msgid "Single Post layout"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:139
+#: inc/redux-sections/section-layouts.php:206
+msgid "Select the default sidebar position"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:146
+#: inc/redux-sections/section-layouts.php:213
+msgid "Display metabox"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:147
+#: inc/redux-sections/section-layouts.php:214
+msgid "Date time, comment, author..."
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:153
+#: inc/redux-sections/section-layouts.php:226
+msgid "Display breadcrumb"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:159
+msgid "Display Navigation"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:160
+msgid "Next / Preview post"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:166
+msgid "Display Social Share button"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:172
+#: inc/redux-sections/section-layouts.php:238
+msgid "Display Author box"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:173
+#: inc/redux-sections/section-layouts.php:239
+msgid "Author description"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:179
+msgid "Display Related posts"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:185
+#: inc/redux-sections/section-layouts.php:245
+msgid "Display Comment box"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:191
+msgid "Display Dropcap"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:199
+msgid "Single Page layout"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:220
+msgid "Display dropcap"
+msgstr ""
+
+#: inc/redux-sections/section-layouts.php:232
+msgid "Display Social share button"
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:5
+msgid "Navigation"
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:6
+msgid "These are options to modify and style the main navigation"
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:12
+msgid "Smart navigation"
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:13
+msgid "Fix navigation on top page"
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:24
+msgid "Main Navigation Color Options"
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:30
+msgid "Navigation - Background Color"
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:31
+msgid "Select background color for navigation"
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:41
+msgid "Navigation - Border Color"
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:42
+msgid "Select color for navigation border"
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:53
+msgid "Link color"
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:54
+msgid "Set color for main navigation link: hover, active, visited..."
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:68
+msgid "Submenu Options"
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:73
+msgid "Dropdown menu background"
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:74
+msgid "Select background color for dropdown menu"
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:85
+msgid "Dropdown links color option"
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:86
+msgid "Set color for dropdown menu: hover, active, visited..."
+msgstr ""
+
+#: inc/redux-sections/section-navigation.php:100
+msgid "Navigation font"
+msgstr ""
+
+#: inc/redux-sections/section-offcanvas.php:7
+msgid "Setting for off canvas(left slide sidebar)"
+msgstr ""
+
+#: inc/redux-sections/section-offcanvas.php:12
+msgid "Offcanvas - Background Color"
+msgstr ""
+
+#: inc/redux-sections/section-offcanvas.php:13
+msgid "Select background color for offcanvas"
+msgstr ""
+
+#: inc/redux-sections/section-offcanvas.php:24
+msgid "Offcanvas link color option"
+msgstr ""
+
+#: inc/redux-sections/section-offcanvas.php:25
+msgid "Set color for offcanvas link: hover, active, visited..."
+msgstr ""
+
+#: inc/redux-sections/section-offcanvas.php:36
+msgid "Offcanvas - Text color"
+msgstr ""
+
+#: inc/redux-sections/section-offcanvas.php:37
+msgid "Select color for offcanvas text"
+msgstr ""
+
+#: inc/redux-sections/section-social.php:6
+msgid "Social network"
+msgstr ""
+
+#: inc/redux-sections/section-social.php:11
+msgid "Open in new tab"
+msgstr ""
+
+#: inc/redux-sections/section-social.php:26
+#: inc/redux-sections/section-social.php:34
+#: inc/redux-sections/section-social.php:42
+#: inc/redux-sections/section-social.php:50
+#: inc/redux-sections/section-social.php:58
+#: inc/redux-sections/section-social.php:65
+#: inc/redux-sections/section-social.php:72
+#: inc/redux-sections/section-social.php:79
+#: inc/redux-sections/section-social.php:86
+#: inc/redux-sections/section-social.php:93
+#: inc/redux-sections/section-social.php:100
+#: inc/redux-sections/section-social.php:107
+#: inc/redux-sections/section-social.php:114
+#: inc/redux-sections/section-social.php:121
+#: inc/redux-sections/section-social.php:128
+#: inc/redux-sections/section-social.php:135
+#: inc/redux-sections/section-social.php:142
+#: inc/redux-sections/section-social.php:149
+msgid "The URL to your account page"
+msgstr ""
+
+#: inc/redux-sections/section-social.php:64
+msgid "Tumblr "
+msgstr ""
+
+#: inc/redux-sections/section-social.php:92
+msgid "Snapchat"
+msgstr ""
+
+#: inc/redux-sections/section-social.php:99
+msgid "Youtube URL "
+msgstr ""
+
+#: inc/redux-sections/section-social.php:106
+msgid "Digg URL"
+msgstr ""
+
+#: inc/redux-sections/section-social.php:113
+msgid "Dribbble URL"
+msgstr ""
+
+#: inc/redux-sections/section-social.php:120
+msgid "Soundcloud URL"
+msgstr ""
+
+#: inc/redux-sections/section-social.php:127
+msgid "Vimeo URL "
+msgstr ""
+
+#: inc/redux-sections/section-social.php:134
+msgid "Reddit URL "
+msgstr ""
+
+#: inc/redux-sections/section-social.php:141
+msgid "Whatsapp URL "
+msgstr ""
+
+#: inc/redux-sections/section-social.php:148
+msgid "Rss URL "
+msgstr ""
+
+#: tmpls/archive/archive-header.php:9
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: tmpls/archive/archive-header.php:9
+msgid "Tag"
+msgstr ""
+
+#: tmpls/archive/archive-header.php:10
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: tmpls/archive/archive-header.php:11 tmpls/archive/archive-header.php:12
+#: tmpls/archive/archive-header.php:13
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: tmpls/featured/featured-slide_full.php:64
+msgid "Keep Reading"
+msgstr ""
+
+#: tmpls/page/page-content.php:43 tmpls/post/post-content.php:56
+msgid "[ View all posts ]"
+msgstr ""
+
+#: tmpls/page/page-content.php:58 tmpls/post/content-quote.php:59
+#: tmpls/post/post-content.php:92
+msgid "Comments"
+msgstr ""
+
+#: tmpls/post/content-none.php:15
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: tmpls/post/content-none.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: tmpls/post/related-post.php:2
+msgid "Related posts"
+msgstr ""
+
+#: tmpls/thumbnail/thumbnail-audio.php:33
+#: tmpls/thumbnail/thumbnail-video.php:33
+msgid ""
+"Current WordPress version do not support self-hosted video, please update "
+"WordPress to latest version to display this video"
+msgstr ""
